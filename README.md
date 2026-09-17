@@ -92,78 +92,60 @@ backend engineering, system design, and Generative AI skills.
 
 ## 🤖 AI-Powered Mock Interview Platform
 
-An AI-powered interview platform designed to simulate technical
-interviews with voice interaction, coding challenges, authentication,
-and AI-generated interview experiences.
+An AI-powered platform for practicing technical interviews through
+AI-driven questioning, voice interaction, coding challenges, and
+interview workflows.
 
-**Tech Stack**
+**Tech Stack:**  
+`Node.js` `Express.js` `SQLite` `JWT` `bcrypt` `AssemblyAI` `Murf AI` `Groq`
 
-`Node.js` `Express.js` `SQLite` `JWT` `bcrypt`
-`AssemblyAI` `Murf AI` `Groq`
-
-### Key Highlights
-
+**Key Highlights**
 - Built 30+ REST API endpoints using Node.js and Express.js
-- Implemented JWT authentication, bcrypt password hashing,
-  Google OAuth, and email verification
-- Designed relational database structures for users, resumes,
-  interviews, questions, evaluations, skill profiles, and
-  coding submissions
-- Integrated programming code execution for coding challenges
-- Added speech-to-text using AssemblyAI
-- Added text-to-speech using Murf AI
+- Implemented JWT authentication, Google OAuth, email verification,
+  and protected routes
+- Designed relational database structures for interviews, questions,
+  evaluations, skill profiles, and coding submissions
+- Integrated voice interaction using speech-to-text and text-to-speech
+- Added coding challenge execution and result evaluation
 
+🔗 **[Repository](YOUR_GITHUB_REPOSITORY_LINK)**  
 🔗 **[Live Demo](https://ai-powered-mock-interview-platform-ten.vercel.app/)**
 
----
+### 🧠 Agentic KKS College Chatbot
 
-## ⚡ KksBuild — AI Web App Builder
-
-An AI-powered platform that converts natural-language requirements
-into working web applications using LLM-based code generation.
-
-**Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB` `Mongoose`
-`JWT` `Groq API`
-
-### Key Highlights
-
-- Built backend services for project management and AI code generation
-- Implemented JWT authentication and project ownership checks
-- Designed version history and code snapshot storage
-- Integrated LLM-powered code generation
-- Added retry logic and request-size limits for AI API requests
-- Implemented GitHub Actions CI/CD workflows
-- Added Jenkins-based testing and Docker validation
-- Added production health/smoke testing
-
-🔗 **[Live Demo](https://ai-web-builder-amber.vercel.app/)**
-
----
-
-## 🧠 Agentic KKS College Chatbot
-
-An AI-powered college assistant combining document-based question
+An AI-powered college assistant that combines document-based question
 answering, vector search, LLM integration, and voice calling.
 
-**Tech Stack**
+**Tech Stack:**  
+`Node.js` `Express.js` `TypeScript` `MongoDB Atlas` `JWT` `REST APIs`
 
-`Node.js` `Express.js` `TypeScript` `MongoDB Atlas`
-`JWT` `REST APIs`
-
-### Key Highlights
-
+**Key Highlights**
 - Built REST APIs for authentication, chat, and calling
 - Implemented MongoDB Atlas Vector Search for document-based Q&A
 - Integrated LLM, embeddings, and calling services
-- Implemented JWT-protected backend routes
-- Added centralized error handling for backend and third-party
-  service failures
+- Added JWT-protected backend routes
+- Implemented centralized error handling for backend and third-party services
 
+🔗 **[Repository](YOUR_GITHUB_REPOSITORY_LINK)**  
 🔗 **[Live Demo](https://kks-chatbot-frontend.vercel.app/)**
 
----
+## ⚡ KksBuild — AI Web App Builder
+
+An AI-powered web application builder that converts natural-language
+requirements into working applications using LLM-based code generation.
+
+**Tech Stack:**  
+`React` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Groq API`
+
+**Key Highlights**
+- Built backend services for project management and AI code generation
+- Implemented JWT authentication and project ownership authorization
+- Designed version history and code snapshot storage
+- Integrated LLM-powered code generation with retry and request-size handling
+- Implemented GitHub Actions, Jenkins, and Docker-based CI/CD workflows
+
+🔗 **[Repository](YOUR_GITHUB_REPOSITORY_LINK)**  
+🔗 **[Live Demo](https://ai-web-builder-amber.vercel.app/)**
 
 ## 🔄 AI Code Smart Translator
 
@@ -186,23 +168,7 @@ analyze, and optimize source code across programming languages.
 
 ---
 
-## 📰 PressPulse.AI
 
-An AI-powered full-stack application focused on processing and
-working with news content using modern AI technologies.
-
-**Tech Stack**
-
-`React` `Node.js` `Express.js` `JavaScript` `AI/LLM`
-
-### Key Highlights
-
-- Full-stack web application architecture
-- AI-assisted news processing
-- Backend API integration
-- React-based user interface
-
----
 
 ## 🎨 AI-Powered Thumbnail Generator
 
