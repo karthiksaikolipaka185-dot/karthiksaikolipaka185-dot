@@ -43,53 +43,48 @@ backend engineering, system design, and Generative AI skills.
 
 ## 🛠️ Tech Stack
 
-### Languages
-
+### 💻 Languages
 <p>
 <img src="https://skillicons.dev/icons?i=js,python,java" />
 </p>
 
 **JavaScript • Python • Java • SQL**
 
-### Frontend
-
+### 🌐 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### Backend
+**HTML • CSS • React.js**
 
+### ⚙️ Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 **Node.js • Express.js • REST APIs • JWT • bcrypt**
 
-### Databases
-
+### 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
 **SQL • MySQL • SQLite • MongoDB • Mongoose**
 
-### AI / Generative AI
+### 🤖 AI / Generative AI
 
-**LLMs • Generative AI • RAG • LangChain • LangGraph •
-Machine Learning Fundamentals**
+**LLMs • Generative AI • RAG • LangChain • LangGraph • Machine Learning Fundamentals**
 
-### Tools & Engineering
-
+### 🔧 Tools & Engineering
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vercel" />
 </p>
 
 **Git • GitHub • Docker • GitHub Actions • Jenkins • CI/CD**
 
-### Computer Science
+### 📚 Computer Science
 
-**Data Structures & Algorithms • OOP • DBMS • Operating Systems
-• Computer Networks**
+**Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks**
 
 ---
 
