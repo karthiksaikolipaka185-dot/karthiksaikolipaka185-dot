@@ -2,9 +2,9 @@
 
 # Hi, I'm Karthik Sai Kolipaka 👋
 
-### Backend-Focused Software Engineer | AI/ML Student
+### Aspiring AI Automation Engineer | Software Developer | AI/ML Student
 
-Building backend systems, full-stack applications, and practical AI-powered products.
+Building AI agents, intelligent workflows, and automation solutions using Python, JavaScript, TypeScript, and Java.
 
 <p>
   <a href="https://www.linkedin.com/in/karthiksai-kolipaka/">LinkedIn</a>
@@ -21,18 +21,20 @@ Building backend systems, full-stack applications, and practical AI-powered prod
 ## 👨‍💻 About Me
 
 I'm a B.Tech Computer Science & Engineering (AI/ML) student at NIIT University,
-focused on backend engineering, full-stack development, and practical AI applications.
+passionate about **AI, automation, software development, and intelligent workflows**.
 
-I build real-world applications using Node.js, Express.js, React.js, SQL, MongoDB,
-and AI/LLM technologies, with hands-on experience in REST APIs, authentication,
-database design, RAG systems, and CI/CD workflows.
+I build AI-powered applications that connect **APIs, REST services, JSON, databases, and web technologies**,
+and I enjoy turning real-world business problems into working technical solutions.
+I have hands-on experience with **Generative AI tools**, **AI agents**, and **CI/CD deployment**,
+plus basic experience with **Robotic Process Automation (RPA) using Automation Anywhere**.
 
-- 🎓 B.Tech CSE (AI/ML) — NIIT University
-- 💻 Focus: Backend Engineering & Full-Stack Development
-- 🤖 Exploring: LLMs, Generative AI, RAG, LangChain & LangGraph
+- 🎓 B.Tech CSE (AI/ML) — NIIT University (2023 – 2027)
+- 🤖 Focus: AI Agents, Automation & Intelligent Workflows
+- 💻 Building: AI-powered full-stack applications and REST API integrations
+- 🔬 Exploring: Generative AI, RAG, LangChain & LangGraph, RPA
 - 🧩 Practicing: Data Structures & Algorithms
-- 🛠️ Building and deploying real-world applications
-- 📍 Narasaraopet, Andhra Pradesh, India
+- 🤝 Open to: AI / Automation / Software Development internships
+- 📍 Narasaraopet, Andhra Pradesh, India (Open to Relocate)
 
 ---
 
@@ -41,26 +43,23 @@ database design, RAG systems, and CI/CD workflows.
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,python,java" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java" />
 </p>
 
-**JavaScript • Python • Java • SQL**
+**Python • JavaScript • TypeScript • Java • SQL**
 
-### 🌐 Frontend Development
+### 🤖 AI & Automation
+
+**AI Agents • Intelligent Workflows • Workflow Automation • Generative AI •
+LLM APIs (OpenAI, Gemini, Claude, Groq) • RAG • RPA (Automation Anywhere – basic)**
+
+### 🔌 APIs & Web Applications
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,angular,html,css" />
 </p>
 
-**HTML • CSS • JavaScript • React.js**
-
-### ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-**Node.js • Express.js • REST APIs • JWT Authentication • bcrypt**
+**REST APIs • JSON • API Integration • Node.js • Express.js • React.js • Angular (basic) • HTML • CSS**
 
 ### 🗄️ Databases
 
@@ -68,107 +67,94 @@ database design, RAG systems, and CI/CD workflows.
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
-**SQL • MySQL • SQLite • MongoDB • Mongoose**
+**SQL • MySQL • SQLite • MongoDB**
 
-### 🤖 AI / Generative AI
-
-**LLMs • Generative AI • RAG • LangChain • LangGraph •
-Machine Learning Fundamentals**
-
-### 🔧 Tools & Engineering
+### ☁️ Cloud, Git & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vercel" />
 </p>
 
-**Git • GitHub • Docker • GitHub Actions • Jenkins • CI/CD**
+**Git • GitHub • Vercel (Cloud Deployment) • CI/CD (GitHub Actions, Jenkins – basic) • Docker (basic)**
 
 ### 📚 Computer Science
 
-**Data Structures & Algorithms • OOP • DBMS • Operating Systems •
-Computer Networks**
+**Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks**
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI-Powered Mock Interview Platform
+## 🤖 Generative AI-Based University Knowledge Assistant
 
-An AI-powered platform for practicing technical interviews through
-AI-driven questioning, voice interaction, coding challenges, and
-interview workflows.
-
-**Tech Stack**
-
-`Node.js` `Express.js` `SQLite` `JWT` `bcrypt`
-`AssemblyAI` `Murf AI` `Groq`
-
-**Key Highlights**
-
-- Built 30+ REST API endpoints using Node.js and Express.js
-- Implemented JWT authentication, Google OAuth, email verification,
-  and protected backend routes
-- Designed relational database structures for interviews, questions,
-  evaluations, skill profiles, and coding submissions
-- Integrated speech-to-text and text-to-speech for voice-based interviews
-- Added coding challenge execution and result evaluation
-
-🔗 **[GitHub Repository](https://github.com/karthiksaikolipaka185-dot/AI-Powered-Mock-Interview-Platform)**  
-🔗 **[Live Demo](https://ai-powered-mock-interview-platform-ten.vercel.app/)**
-
----
-
-## 🧠 Agentic KKS College Chatbot
-
-An AI-powered college assistant combining document-based question
+An **AI agent** that automates college enquiries using document-based question
 answering, vector search, LLM integration, and voice calling.
 
 **Tech Stack**
 
-`Node.js` `Express.js` `TypeScript` `MongoDB Atlas`
-`JWT` `REST APIs`
+`Node.js` `Express.js` `TypeScript` `MongoDB Atlas` `Vector Search`
+`LLM API` `JWT` `REST APIs`
 
 **Key Highlights**
 
+- Developed an AI agent chatbot with document-based Q&A using an LLM API,
+  an embeddings API, and MongoDB Atlas Vector Search
 - Built REST APIs for authentication, chat, and calling
-- Implemented MongoDB Atlas Vector Search for document-based Q&A
-- Integrated LLM, embeddings, and calling services
+- Integrated LLM, embeddings, and calling services into one intelligent workflow
 - Implemented JWT-protected backend routes
-- Added centralized error handling for database and third-party
-  service failures
+- Added centralized error handling for database and third-party service failures
 
 🔗 **[GitHub Repository](https://github.com/karthiksaikolipaka185-dot/kks-college-chatbot)**  
 🔗 **[Live Demo](https://kks-chatbot-frontend.vercel.app/)**
 
 ---
 
+## 🎤 Generative AI-Powered Interview Preparation Platform
 
-## ⚡ KksBuild — AI Web App Builder
+An AI-powered platform for practicing technical interviews through
+AI-driven questioning, voice interaction, coding challenges, and automated evaluation.
+
+**Tech Stack**
+
+`Node.js` `Express.js` `SQLite` `JWT` `REST APIs` `JSON`
+`Generative AI` `Groq` `AssemblyAI` `Murf AI` `Judge0`
+
+**Key Highlights**
+
+- Used Generative AI (Groq LLM) to generate interview questions and evaluate answers
+- Built 30+ REST API endpoints using Node.js and Express.js with JSON handling
+- Implemented JWT authentication, Google OAuth, and email verification
+- Designed a relational SQL database for interviews, questions, evaluations, and coding submissions
+- Integrated Judge0 (code testing), AssemblyAI (speech-to-text), and Murf AI (text-to-speech)
+
+🔗 **[GitHub Repository](https://github.com/karthiksaikolipaka185-dot/AI-Powered-Mock-Interview-Platform)**  
+🔗 **[Live Demo](https://ai-powered-mock-interview-platform-ten.vercel.app/)**
+
+---
+
+## ⚡ Generative AI Code Generation Platform (KksBuild)
 
 An AI-powered web application builder that converts natural-language
 requirements into working applications using LLM-based code generation.
 
 **Tech Stack**
 
-`React` `Node.js` `Express.js` `MongoDB` `Mongoose`
-`JWT` `Groq API`
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `Groq API`
+`GitHub Actions` `Jenkins` `Docker` `Vercel`
 
 **Key Highlights**
 
-- Built backend services for project management and AI code generation
-- Implemented JWT authentication and project ownership authorization
-- Designed version history and code snapshot storage
-- Integrated LLM-powered code generation
-- Added retry logic and request-size handling for AI API requests
-- Implemented GitHub Actions and Jenkins-based CI/CD workflows
-- Added Docker-based build and runtime validation
+- Built an AI web app builder that generates code from prompts using Generative AI (Groq API)
+- Developed backend services for project data, version history, and code snapshots
+- Added retry logic and request-size limits for AI API requests
+- Implemented JWT authentication and project ownership checks
+- Automated build, testing, and deployment using CI/CD (GitHub Actions, Jenkins),
+  Docker, and a post-deploy smoke test; deployed on Vercel
 
 🔗 **[GitHub Repository](https://github.com/karthiksaikolipaka185-dot/ai-web-builder)**  
 🔗 **[Live Demo](https://ai-web-builder-amber.vercel.app/)**
 
 ---
-
-
 
 ## 🔄 AI Code Smart Translator
 
@@ -177,29 +163,25 @@ and optimizing source code across programming languages.
 
 **Tech Stack**
 
-`React` `Node.js` `Express.js` `JavaScript`
-`Gemini API` `Monaco Editor`
+`React` `Node.js` `Express.js` `JavaScript` `Gemini API` `Monaco Editor`
 
 **Key Highlights**
 
-- AI-powered code translation between programming languages
+- AI-powered code translation between programming languages using the Gemini API
 - Code explanation and complexity analysis
 - AI-assisted code optimization
-- Monaco-based code editor
-- Translation history
-- Full-stack application architecture
+- Monaco-based code editor with translation history
+- Full-stack application with REST API integration
 
-🔗 **[GitHub Repository](https://github.com/karthiksaikolipaka185-dot/ai-code-translator)**
+🔗 **[GitHub Repository](https://github.com/karthiksaikolipaka185-dot/ai-code-translator)**  
 🔗 **[Live Demo](https://ai-code-translator-sopg.vercel.app/login)**
-
 
 ---
 
 ## 📚 Personalized Learning Portal
 
-An AI-powered personalized learning platform designed for competitive
-exam preparation. The platform adapts learning activities based on
-student performance, progress, strengths, and learning gaps.
+An AI-powered personalized learning platform for competitive exam preparation
+that adapts learning activities to each student's performance, progress, and learning gaps.
 
 **Tech Stack**
 
@@ -208,21 +190,16 @@ student performance, progress, strengths, and learning gaps.
 
 **Key Highlights**
 
-- Built an interactive learning platform with lessons, cheat sheets,
-  quizzes, question banks, and persistent student progress
-- Implemented adaptive learning that adjusts question difficulty based
-  on student performance
-- Added concept mastery tracking using quiz performance, correctness,
-  time, and weak-concept signals
-- Implemented student progress features including streaks, XP, rank,
-  missions, journey progress, and learning history
-- Built a context-aware AI tutor using RAG-based retrieval to provide
-  grounded explanations and support student doubts
-- Added Feynman-based questioning to evaluate conceptual understanding
-- Implemented personalized revision and learning workflows based on
-  identified knowledge gaps
+- Built an interactive learning platform with lessons, quizzes, question banks,
+  and persistent student progress
+- Implemented adaptive learning that adjusts question difficulty based on performance
+- Added concept mastery tracking using quiz correctness, time, and weak-concept signals
+- Built a context-aware AI tutor using RAG-based retrieval for grounded explanations
+- Implemented personalized revision workflows based on identified knowledge gaps
 
 🔗 **[GitHub Repository](https://github.com/karthiksaikolipaka185-dot/Personalized-Learning-Portal)**
+
+---
 
 ## 🎨 AI-Powered Thumbnail Generator
 
@@ -236,7 +213,6 @@ AI-based generation workflows.
 **Key Highlights**
 
 - AI-assisted image generation workflow
-- Full-stack application architecture
 - Backend API integration
 - User-focused web interface
 
@@ -244,23 +220,36 @@ AI-based generation workflows.
 
 ---
 
+# 🎯 What I Bring
+
+| Skill | Where I've used it |
+|---|---|
+| **AI Agents & Intelligent Workflows** | University Knowledge Assistant, Learning Portal AI Tutor |
+| **Generative AI Tools** | Groq, Gemini API, LLM & embeddings APIs |
+| **APIs, REST & JSON** | 30+ REST endpoints, third-party API integrations |
+| **Databases** | SQL, SQLite, MongoDB, Vector Search |
+| **Automation & CI/CD** | GitHub Actions, Jenkins, Docker, Vercel deployment |
+| **RPA (basic)** | Automation Anywhere |
+| **Testing & Troubleshooting** | Code-execution testing, post-deploy smoke tests, centralized error handling |
+
+---
+
 # 🧠 Currently Learning
 
-- 📚 Advanced Data Structures & Algorithms
-- ⚙️ Backend Engineering & System Design
-- 🔌 Scalable REST API Architecture
-- 🤖 Generative AI & LLM Applications
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🦜 LangChain & LangGraph
-- 🐳 Docker & CI/CD
+- 🤖 AI Agents & Intelligent Workflow Automation
+- ⚙️ Robotic Process Automation (Automation Anywhere)
+- 🔎 Generative AI, RAG, LangChain & LangGraph
+- 🔌 REST API Design & Integrations
+- 🐳 Docker, CI/CD & Cloud Deployment
+- 📚 Data Structures & Algorithms
 
 ---
 
 # 💬 Ask Me About
 
-`Node.js` `Express.js` `REST APIs` `React.js` `SQL`
-`MongoDB` `JWT Authentication` `Git` `Docker`
-`LLMs` `Generative AI` `RAG` `LangChain` `LangGraph`
+`AI Agents` `Generative AI` `Automation` `RPA` `REST APIs` `JSON`
+`Python` `JavaScript` `TypeScript` `Java` `SQL` `MongoDB`
+`Git` `CI/CD` `Node.js` `RAG`
 
 ---
 
@@ -279,10 +268,6 @@ AI-based generation workflows.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksaikolipaka185-dot&layout=compact&hide_border=true" />
 
 </div>
-
-
-
-
 
 ---
 
@@ -308,6 +293,6 @@ AI-based generation workflows.
 
 <div align="center">
 
-### ⚡ Building. Learning. Improving.
+### ⚡ Building AI. Automating Workflows. Always Learning.
 
 </div>
